@@ -18,8 +18,8 @@ import numpy as np
 import scipy
 import matplotlib.pyplot as plt
 import seaborn as sns
-from iaml01cw2_helpers import *
-from iaml01cw2_my_helpers import *
+from helper_function import *
+from helper_function_2 import *
 
 import pandas as pd
 from sklearn.cluster import KMeans
